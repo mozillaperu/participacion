@@ -115,7 +115,7 @@ Información técnica
 | PHP     | | | | | |
 | Python  | | | | | |
 | Ruy     | | | | | | 
-+ ¿Qué frameworks backend cononces?
++ ¿Qué frameworks backend utilizas?
     - Laravel (PHP)
     - CodeIgniter (PHP)
     - Django (Python)
