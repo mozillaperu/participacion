@@ -96,7 +96,7 @@ Información técnica
     - GNU/Linux
     - Mac
     - Otro:
-+ ¿Qué herramientas para desarrolladorse (developer tools) de tu navegador utilizas?
++ ¿Qué herramientas para desarrolladorse (developer tools) de tu navegador utilizas regularmente?
     - Inspector / Elements / DOM Explorer
     - Consola
     - Depurador de JavaScript / Debugger
@@ -114,8 +114,9 @@ Información técnica
 | Node.js | | | | | |
 | PHP     | | | | | |
 | Python  | | | | | |
-| Ruy     | | | | | | 
-+ ¿Qué frameworks backend cononces?
+| Ruby    | | | | | |
+| Rust    | | | | | |
++ ¿Qué frameworks backend conoces?
     - Laravel (PHP)
     - CodeIgniter (PHP)
     - Django (Python)
@@ -160,13 +161,11 @@ Información técnica
     - Brocoli
     - WebPack
     - Otro:
-+ ¿Con qué bases de datos relacionales has trabajado?
++ ¿Con qué bases de datos has trabajado?
     - MySQL
     - Microsoft SQL Server
     - PostgreSQL
     - Oracle Database
-    - Otro:
-+ ¿Con qué bases de datos no relacionales has trabajado?
     - MongoDB
     - Redis
     - Apache Cassandra
