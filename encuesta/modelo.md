@@ -48,7 +48,7 @@ Información técnica
 
 + ¿Cuál es tu grado de instrucción?
     - Escolar
-    - Estudiantes de instituto
+    - Estudiante de instituto
     - Graduado de instituto
     - Estudiante de universidad
     - Graduado de universidad
@@ -60,7 +60,7 @@ Información técnica
     - De 4 a 6 años
     - De 6 a 10 años
     - Mayor a 10 años
-+ ¿Cuál es tu situación laboral actual?
++ ¿Cuál es tu situación laboral actual como desarrollador web?
     - Trabajo como dependiente e independiente
     - Trabajo como independiente
     - Trabajo como dependiente
@@ -77,9 +77,6 @@ Información técnica
 + Como trabajador independiente ¿Emites recibos por honorarios u otro comprobante de pago?
     - Sí
     - No
-+ En tu trabajo actual ¿Tu función principal es desarrollo web?
-    - Sí
-    - No
 + ¿Cuál es tu ingreso mensual bruto (antes de descuentos) en soles?
     - Menos de 1500 soles
     - De 1501 a 2500 soles
@@ -87,6 +84,9 @@ Información técnica
     - De 3501 a 4500 soles
     - De 4501 a 5500 soles
     - De 5501 a más
++ En tu trabajo actual ¿Tu función principal es desarrollo web?
+    - Sí
+    - No
 + Si comparas tu sueldo bruto actual con tu sueldo bruto hace doce meses, dirías que:
     - Ha aumentado
     - Es igual
@@ -96,7 +96,7 @@ Información técnica
     - GNU/Linux
     - Mac
     - Otro:
-+ ¿Qué herramientas para desarrolladorse (developer tools) de tu navegador utilizas regularmente?
++ ¿Qué herramientas para desarrolladores (developer tools) de tu navegador utilizas regularmente?
     - Inspector / Elements / DOM Explorer
     - Consola
     - Depurador de JavaScript / Debugger
