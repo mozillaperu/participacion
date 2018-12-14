@@ -116,6 +116,21 @@ Información técnica
 | Python  | | | | | |
 | Ruby    | | | | | |
 | Rust    | | | | | |
++ ¿Qué frameworks backend conoces?
+    - Laravel (PHP)
+    - CodeIgniter (PHP)
+    - Django (Python)
+    - Ruby on Rails
+    - Zend Framework
+    - Symfony (PHP)
+    - Play Framework (Java)
+    - Spring Boot (Java)
+    - Flask (Python)
+    - Sinatra (Ruby)
+    - Webpy (Python)
+    - Bottle (Python)
+    - Cuba (Ruby)
+    - Otro:
 + ¿Qué frameworks backend utilizas?
     - Laravel (PHP)
     - CodeIgniter (PHP)
@@ -147,6 +162,22 @@ Información técnica
     - Kendo
     - Webix
     - Otro:
++ ¿Qué frameworks de JavaScript utilizas?
+    - jQuery
+    - jQuery UI
+    - AngularJS
+    - Backbone.js
+    - React
+    - Ember.js
+    - D3.js
+    - Dojo
+    - Zepto.js
+    - Vue.js
+    - Framework7
+    - Sencha
+    - Kendo
+    - Webix
+    - Otro:
 + ¿Con qué pre/post procesadores has trabajado?
     - SASS
     - LESS
@@ -161,12 +192,13 @@ Información técnica
     - Brocoli
     - WebPack
     - Otro:
-+ ¿Con qué bases de datos has trabajado?
++ ¿Con qué bases de datos relacionales has trabajado?
     - MySQL
     - Microsoft SQL Server
     - PostgreSQL
     - Oracle Database
     - MongoDB
++ ¿Con qué bases de datos no relacionales has trabajado?
     - Redis
     - Apache Cassandra
     - CouchDB
@@ -191,13 +223,14 @@ Información técnica
     - Otros:
 + ¿Para qué sistemas operativos móviles haz desarrollado aplicaciones?
     - Android
-    - Webapps móviles (híbridas para cualquier plataforma)
     - iOS
+    - Web apps móviles (híbridas para cualquier plataforma)
     - Otro:
-+ Si desarrollas web/apps móviles ¿Qué frameworks has utilizado para su desarrollo?
++ Si desarrollas web apps móviles ¿Qué herramientas has utilizado para su desarrollo?
     - Ionic Framework
     - Apache Cordova
     - Phonegap
     - Reac Native
     - NativeScript
+    - Progressive Web Apps
     - Otro:
