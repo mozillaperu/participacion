@@ -84,14 +84,14 @@ Información técnica
     - De 3501 a 4500 soles
     - De 4501 a 5500 soles
     - De 5501 a más
-+ En tu trabajo actual ¿Tu función principal es desarrollo web?
-    - Sí
-    - No
 + Si comparas tu sueldo bruto actual con tu sueldo bruto hace doce meses, dirías que:
     - Ha aumentado
     - Es igual
     - Ha disminuido
-+ ¿Qué sistema operativo usas principalmente para desarrollo web?
++ En tu trabajo actual ¿Tu función principal es desarrollo web?
+    - Sí
+    - No
++ ¿Qué sistema operativo usas principalmente como entorno de desarrollo?
     - Microsoft Windows
     - GNU/Linux
     - Mac
