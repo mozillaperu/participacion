@@ -88,9 +88,10 @@ Información técnica
     - Ha aumentado
     - Es igual
     - Ha disminuido
-+ En tu trabajo actual ¿Tu función principal es desarrollo web?
-    - Sí
-    - No
++ Tu función principal en el desarrollo web es:
+    - Frontend
+    - Backend
+    - Fullstack
 + ¿Qué sistema operativo usas principalmente como entorno de desarrollo?
     - Microsoft Windows
     - GNU/Linux
