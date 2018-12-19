@@ -198,11 +198,11 @@ Información técnica
     - Microsoft SQL Server
     - PostgreSQL
     - Oracle Database
-    - MongoDB
 + ¿Con qué bases de datos no relacionales has trabajado?
     - Redis
     - Apache Cassandra
     - CouchDB
+    - MongoDB
     - Otro:
 + ¿Con qué plataformas Cloud has trabajado?
     - Amazon Web Services
