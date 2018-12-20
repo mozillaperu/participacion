@@ -106,6 +106,11 @@ Información técnica
     - Rendimiento / Timeline / Performance
     - Inspector de almacenamiento / Resources / Storage
     - Inspector de memoria / Profiles / Memory
+    - Editor de sombreadores
+    - Canvas
+    - Audio Web
+    - Borrador
+    - Accesibilidad
 + ¿Cuantos años de experiencia tienes con ...?
 |    \    | No conozco | Menos de 1 año | De 1 a 3 años | De 4 a 6 años | Más de 6 años |
 | ------- | ---------- | -------------- | ------------- | ------------- | ------------- |
