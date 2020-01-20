@@ -122,12 +122,16 @@ Información técnica
 | Python  | | | | | |
 | Ruby    | | | | | |
 | Rust    | | | | | |
+| Lisp    | | | | | |
+| Scala   | | | | | |
+| Swift   | | | | | |
+| Kotlin  | | | | | |
 + ¿Qué frameworks backend conoces?
     - Laravel (PHP)
     - CodeIgniter (PHP)
     - Django (Python)
-    - Ruby on Rails
-    - Zend Framework
+    - Ruby on Rails (Ruby)
+    - Zend Framework (PHP)
     - Symfony (PHP)
     - Play Framework (Java)
     - Spring Boot (Java)
@@ -136,13 +140,15 @@ Información técnica
     - Webpy (Python)
     - Bottle (Python)
     - Cuba (Ruby)
+    - Express (Node.js)
+    - Hapi (Node.js)
     - Otro:
 + ¿Qué frameworks backend utilizas?
     - Laravel (PHP)
     - CodeIgniter (PHP)
     - Django (Python)
-    - Ruby on Rails
-    - Zend Framework
+    - Ruby on Rails (Ruby)
+    - Zend Framework (PHP)
     - Symfony (PHP)
     - Play Framework (Java)
     - Spring Boot (Java)
@@ -151,6 +157,8 @@ Información técnica
     - Webpy (Python)
     - Bottle (Python)
     - Cuba (Ruby)
+    - Express (Node.js)
+    - Hapi (Node.js)
     - Otro:
 + ¿Qué frameworks de JavaScript conoces?
     - jQuery
@@ -215,6 +223,8 @@ Información técnica
     - Google Cloud Platform
     - Microsoft Azure
     - IMB Cloud
+    - Heroku
+    - Zeit
     - Otro:
 + ¿A través de qué medios aprendes sobre desarrollo web?
     - Documentación en la web
@@ -239,4 +249,7 @@ Información técnica
     - Reac Native
     - NativeScript
     - Progressive Web Apps
+    - Flutter
+    - Xamarin
+    - Unity
     - Otro:
