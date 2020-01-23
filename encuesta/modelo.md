@@ -124,14 +124,16 @@ Información técnica
 | Rust    | | | | | |
 | Lisp    | | | | | |
 | Scala   | | | | | |
-| Swift   | | | | | |
-| Kotlin  | | | | | |
+| Swift | | | | | |
+| Kotlin | | | | | |
+| Typescript | | | | | |
 + ¿Qué frameworks backend conoces?
     - Laravel (PHP)
     - CodeIgniter (PHP)
     - Django (Python)
     - Ruby on Rails (Ruby)
     - Zend Framework (PHP)
+    - Laminas (PHP)
     - Symfony (PHP)
     - Play Framework (Java)
     - Spring Boot (Java)
@@ -149,6 +151,7 @@ Información técnica
     - Django (Python)
     - Ruby on Rails (Ruby)
     - Zend Framework (PHP)
+    - Laminas (PHP)
     - Symfony (PHP)
     - Play Framework (Java)
     - Spring Boot (Java)
