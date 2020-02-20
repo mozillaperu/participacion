@@ -126,7 +126,9 @@ Información técnica
 | Scala   | | | | | |
 | Swift | | | | | |
 | Kotlin | | | | | |
+| JavaScript | | | | | |
 | Typescript | | | | | |
+| Flow | | | | | |
 + ¿Qué frameworks backend conoces?
     - Laravel (PHP)
     - CodeIgniter (PHP)
