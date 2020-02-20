@@ -112,26 +112,30 @@ Información técnica
     - Borrador
     - Accesibilidad
 + ¿Cuantos años de experiencia tienes con ...?
-|    \    | No conozco | Menos de 1 año | De 1 a 3 años | De 4 a 6 años | Más de 6 años |
-| ------- | ---------- | -------------- | ------------- | ------------- | ------------- |
-| .Net    | | | | | |
-| Go      | | | | | |
-| Java    | | | | | |
-| Node.js | | | | | |
-| PHP     | | | | | |
-| Python  | | | | | |
-| Ruby    | | | | | |
-| Rust    | | | | | |
-| Lisp    | | | | | |
-| Scala   | | | | | |
-| Swift   | | | | | |
-| Kotlin  | | | | | |
+|      \     | No conozco | Menos de 1 año | De 1 a 3 años | De 4 a 6 años | Más de 6 años |
+| ---------- | ---------- | -------------- | ------------- | ------------- | ------------- |
+| .Net       | | | | | |
+| Go         | | | | | |
+| Java       | | | | | |
+| Node.js    | | | | | |
+| PHP        | | | | | |
+| Python     | | | | | |
+| Ruby       | | | | | |
+| Rust       | | | | | |
+| Lisp       | | | | | |
+| Scala      | | | | | |
+| Swift      | | | | | |
+| Kotlin     | | | | | |
+| JavaScript | | | | | |
+| TypeScript | | | | | |
+| Flow       | | | | | |
 + ¿Qué frameworks backend conoces?
     - Laravel (PHP)
     - CodeIgniter (PHP)
     - Django (Python)
     - Ruby on Rails (Ruby)
     - Zend Framework (PHP)
+    - Laminas (PHP)
     - Symfony (PHP)
     - Play Framework (Java)
     - Spring Boot (Java)
@@ -149,6 +153,7 @@ Información técnica
     - Django (Python)
     - Ruby on Rails (Ruby)
     - Zend Framework (PHP)
+    - Laminas (PHP)
     - Symfony (PHP)
     - Play Framework (Java)
     - Spring Boot (Java)
