@@ -111,6 +111,20 @@ Información técnica
     - Audio Web
     - Borrador
     - Accesibilidad
++ Que editor o IDE utilizas regularmente?
+  - VSCode
+  - Sublime
+  - Nodepad++
+  - IntelliJ
+  - Eclipse
+  - Atom
+  - Vim
+  - Emacs
+  - NetBeans
+  - PhpStorm
+  - WebStorm
+  - Otro:
+
 + ¿Cuantos años de experiencia tienes con ...?
 |      \     | No conozco | Menos de 1 año | De 1 a 3 años | De 4 a 6 años | Más de 6 años |
 | ---------- | ---------- | -------------- | ------------- | ------------- | ------------- |
@@ -258,3 +272,23 @@ Información técnica
     - Xamarin
     - Unity
     - Otro:
++ Utilizas tests en tus proyectos?
+  - Si
+  - No
++ Contribuyes con algún proyecto open source?
+  - No, y no me gustaría hacerlo
+  - No, pero me gustaria hacerlo
+  - He hecho alguna contribución alguna vez
+  - Si, de vez en cuando (varias veces al año)
+  - Si, regularmente (al menos una vez al mes)
+  - Trabajo full-time haciendo open source, pero no recibo algún pago por ello
+  - Trabajo full-time haciendo open source, y recibo un pago por ello
++ Haz asistido a algún evento o meetup local?
+  - Si, al menos una vez al mes
+  - Si, de vez en cuando
+  - No, pero me gustaria
+  - No, y no estoy interesado en asistir
++ Indica el nombre de la comunidad o del meetup al que asististe
++ En los últimos 12 meses has asistido ha alguna conferencia internacional fuera del Perú?
+  - Si
+  - No
