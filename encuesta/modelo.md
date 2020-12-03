@@ -65,6 +65,11 @@ Información técnica
     - Trabajo como independiente
     - Trabajo como dependiente
     - No trabajo actualmente
++ Como trabajador dependiente, trabajas para una empresa local o extranjera?
+  - Empresa local
+  - Empresa extranjera con oficinas en Peru
+  - Empresa extranjera con oficinas fuera de Peru
+  - Empresa extranjera sin oficinas fisicas, 100% remota
 + Como trabajador dependiente e independiente ¿Estás en planilla?
     - Sí
     - No
@@ -106,11 +111,17 @@ Información técnica
     - Rendimiento / Timeline / Performance
     - Inspector de almacenamiento / Resources / Storage
     - Inspector de memoria / Profiles / Memory
-    - Editor de sombreadores
-    - Canvas
-    - Audio Web
-    - Borrador
+    - Network
+    - Application
+    - DOM Property Viewer
+    - Security
     - Accesibilidad
+    - Otro:
++ Que extension (addon) del navegador utilizas regularmente para tu trabajo de desarrollo web?
+  - Postman / RestClient
+  - React DevTool
+  - Vue DevTool
+  - Otro:
 + Que editor o IDE utilizas regularmente?
   - VSCode
   - Sublime
@@ -194,6 +205,7 @@ Información técnica
     - Sencha
     - Kendo
     - Webix
+    - Svelte
     - Otro:
 + ¿Qué frameworks de JavaScript utilizas?
     - jQuery
@@ -210,7 +222,17 @@ Información técnica
     - Sencha
     - Kendo
     - Webix
+    - Svelte
     - Otro:
++ Que frameworks de CSS conoces?
+  - Bootstrap
+  - Foundation
+  - Pure.css
+  - Bulma
+  - Semantic UI
+  - Material Design
+  - Tailwind
+  - Otro:
 + ¿Con qué pre/post procesadores has trabajado?
     - SASS
     - LESS
@@ -224,6 +246,8 @@ Información técnica
     - Gulp
     - Brocoli
     - WebPack
+    - Rollup
+    - Microbundle
     - Otro:
 + ¿Con qué bases de datos relacionales has trabajado?
     - MySQL
@@ -243,13 +267,13 @@ Información técnica
     - Microsoft Azure
     - IMB Cloud
     - Heroku
-    - Zeit
+    - Vercel/Zeit
     - Otro:
 + ¿A través de qué medios aprendes sobre desarrollo web?
     - Documentación en la web
     - Cursos en plataformas MOOC (gratuitos, masivos y con evaluaciones)
     - Cursos en línea de plataformas de pago
-    - En grupos de amigos o compañeros de trabajos / Meetups
+    - En grupos de amigos o compañeros de trabajos
     - Libros, revistas y otras publicaciones impresas
     - En la universidad o instituto
     - Comunidades locales de desarrollo
@@ -283,12 +307,9 @@ Información técnica
   - Si, regularmente (al menos una vez al mes)
   - Trabajo full-time haciendo open source, pero no recibo algún pago por ello
   - Trabajo full-time haciendo open source, y recibo un pago por ello
-+ Haz asistido a algún evento o meetup local?
++ Haz participado de algún evento o meetup local, online o presencial, en los ultimos 12 meses?
   - Si, al menos una vez al mes
   - Si, de vez en cuando
   - No, pero me gustaria
-  - No, y no estoy interesado en asistir
-+ Indica el nombre de la comunidad o del meetup al que asististe
-+ En los últimos 12 meses has asistido ha alguna conferencia internacional fuera del Perú?
-  - Si
-  - No
+  - No, y no estoy interesado
++ Indica el nombre de la comunidad/meetup/evento en el que participaste
