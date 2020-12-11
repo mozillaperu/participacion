@@ -134,26 +134,29 @@ Información técnica
   - NetBeans
   - PhpStorm
   - WebStorm
+  - VSCodium
   - Otro:
 
 + ¿Cuantos años de experiencia tienes con ...?
-|      \     | No conozco | Menos de 1 año | De 1 a 3 años | De 4 a 6 años | Más de 6 años |
-| ---------- | ---------- | -------------- | ------------- | ------------- | ------------- |
-| .Net       | | | | | |
-| Go         | | | | | |
-| Java       | | | | | |
-| Node.js    | | | | | |
-| PHP        | | | | | |
-| Python     | | | | | |
-| Ruby       | | | | | |
-| Rust       | | | | | |
-| Lisp       | | | | | |
-| Scala      | | | | | |
-| Swift      | | | | | |
-| Kotlin     | | | | | |
-| JavaScript | | | | | |
-| TypeScript | | | | | |
-| Flow       | | | | | |
+  |      \     | No conozco | Menos de 1 año | De 1 a 3 años | De 4 a 6 años | Más de 6 años |
+  | ---------- | ---------- | -------------- | ------------- | ------------- | ------------- |
+  | .Net       | | | | | |
+  | Go         | | | | | |
+  | Java       | | | | | |
+  | Node.js    | | | | | |
+  | PHP        | | | | | |
+  | Python     | | | | | |
+  | Ruby       | | | | | |
+  | Rust       | | | | | |
+  | Lisp       | | | | | |
+  | Scala      | | | | | |
+  | Swift      | | | | | |
+  | Kotlin     | | | | | |
+  | JavaScript | | | | | |
+  | TypeScript | | | | | |
+  | Flow       | | | | | |
+  | C/C++      | | | | | |
+  | Flutter    | | | | | |
 + ¿Qué frameworks backend conoces?
     - Laravel (PHP)
     - CodeIgniter (PHP)
@@ -225,14 +228,14 @@ Información técnica
     - Svelte
     - Otro:
 + Que frameworks de CSS conoces?
-  - Bootstrap
-  - Foundation
-  - Pure.css
-  - Bulma
-  - Semantic UI
-  - Material Design
-  - Tailwind
-  - Otro:
+   - Bootstrap
+   - Foundation
+   - Pure.css
+   - Bulma
+   - Semantic UI
+   - Material Design
+   - Tailwind
+   - Otro:
 + ¿Con qué pre/post procesadores has trabajado?
     - SASS
     - LESS
@@ -249,16 +252,37 @@ Información técnica
     - Rollup
     - Microbundle
     - Otro:
-+ ¿Con qué bases de datos relacionales has trabajado?
++ ¿Qué motores de bases de datos prefieres?
     - MySQL
+    - MariaDB
     - Microsoft SQL Server
     - PostgreSQL
     - Oracle Database
-+ ¿Con qué bases de datos no relacionales has trabajado?
     - Redis
     - Apache Cassandra
     - CouchDB
     - MongoDB
+    - Firebase
+    - Elasticsearch
+    - DynamoDB
+    - SQLite
+    - IBM DB2
+    - Otro:
++ ¿Con qué motores de bases de datos has trabajado?
+    - MySQL
+    - MariaDB
+    - Microsoft SQL Server
+    - PostgreSQL
+    - Oracle Database
+    - Redis
+    - Apache Cassandra
+    - CouchDB
+    - MongoDB
+    - Firebase
+    - Elasticsearch
+    - DynamoDB
+    - SQLite
+    - IBM DB2
     - Otro:
 + ¿Con qué plataformas Cloud has trabajado?
     - Amazon Web Services
@@ -296,9 +320,11 @@ Información técnica
     - Xamarin
     - Unity
     - Otro:
-+ Utilizas tests en tus proyectos?
-  - Si
-  - No
++ ¿Qué tipo de pruebas utilizas en tus proyectos?
+  - De unitario (componentes)
+  - De integración
+  - De sistema
+  - Aceptación
 + Contribuyes con algún proyecto open source?
   - No, y no me gustaría hacerlo
   - No, pero me gustaria hacerlo
