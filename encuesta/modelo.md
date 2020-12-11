@@ -65,7 +65,7 @@ Información técnica
     - Trabajo como independiente
     - Trabajo como dependiente
     - No trabajo actualmente
-7. Como trabajador dependiente, trabajas para una empresa local o extranjera?
+7. Como trabajador dependiente ¿Trabajas para una empresa local o extranjera?
   - Empresa local
   - Empresa extranjera con oficinas en Peru
   - Empresa extranjera con oficinas fuera de Peru
@@ -117,12 +117,12 @@ Información técnica
     - Security
     - Accesibilidad
     - Otro:
-17. Que extension (addon) del navegador utilizas regularmente para tu trabajo de desarrollo web?
+17. ¿Qué extensión (addon) del navegador utilizas regularmente para tu trabajo de desarrollo web?
   - Postman / RestClient
   - React DevTool
   - Vue DevTool
   - Otro:
-18. Que editor o IDE utilizas regularmente?
+18. ¿Qué editor o IDE utilizas regularmente?
   - VSCode
   - Sublime
   - Nodepad++
@@ -136,7 +136,7 @@ Información técnica
   - WebStorm
   - VSCodium
   - Otro:
-18. ¿Cuantos años de experiencia tienes con ...?
+18. ¿Cuántos años de experiencia tienes con ...?
   |      \     | No conozco | Menos de 1 año | De 1 a 3 años | De 4 a 6 años | Más de 6 años |
   | ---------- | ---------- | -------------- | ------------- | ------------- | ------------- |
   | .Net       | | | | | |
@@ -226,7 +226,7 @@ Información técnica
     - Webix
     - Svelte
     - Otro:
-23. Que frameworks de CSS conoces?
+23. ¿Qué frameworks de CSS conoces?
    - Bootstrap
    - Foundation
    - Pure.css
@@ -243,7 +243,7 @@ Información técnica
     - CoffeeScript
     - PostCSS
     - Otro:
-25. ¿Con qué herramientas de automatizacion has trabajado?
+25. ¿Con qué herramientas de automatización has trabajado?
     - Grunt
     - Gulp
     - Brocoli
