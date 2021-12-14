@@ -42,6 +42,9 @@ Datos generales
     - Masculino
     - Prefiero no decirlo
     - Otra:
++ ¿Cuál es tu nacionalidad?
+    - Peruana
+    - Otro:
 
 Información técnica
 -------------------
@@ -54,17 +57,20 @@ Información técnica
     - Graduado de universidad
     - Maestría
     - Doctorado
-5. ¿Cuántos años de experiencia tienes en Desarrollo Web?
+5. Sin contar los años de educación ¿Cuántos años de experiencia tienes trabajando en Desarrollo Web?
     - Menos de 1 año
     - De 1 a 3 años
     - De 4 a 6 años
     - De 6 a 10 años
     - Mayor a 10 años
 6. ¿Cuál es tu situación laboral actual como desarrollador web?
-    - Trabajo como dependiente e independiente
+    - Trabajo como dependiente e independiente full-time
+    - Trabajo como dependiente e independiente part-time
     - Trabajo como independiente
-    - Trabajo como dependiente
-    - No trabajo actualmente
+    - Trabajo como dependiente full-time
+    - Trabajo como dependiente part-time
+    - No trabajo actualmente, pero estoy buscando trabajo
+    - No trabajo actualmente y no estoy buscando trabajo
 7. Como trabajador dependiente ¿Trabajas para una empresa local o extranjera?
   - Empresa local
   - Empresa extranjera con oficinas en Peru
@@ -97,10 +103,15 @@ Información técnica
     - Frontend
     - Backend
     - Fullstack
+    - Engineer Manager
+    - Data analyst
+    - DevOps
+    - Otro:
 15. ¿Qué sistema operativo usas principalmente como entorno de desarrollo?
     - Microsoft Windows
     - GNU/Linux
     - Mac
+    - Windows Subsystem for Linux (WSL)
     - Otro:
 16. ¿Qué herramientas para desarrolladores (developer tools) de tu navegador utilizas regularmente?
     - Inspector / Elements / DOM Explorer
@@ -174,7 +185,7 @@ Información técnica
     - Express (Node.js)
     - Hapi (Node.js)
     - Otro:
-20. ¿Qué frameworks backend utilizas?
+20. ¿Qué frameworks backend has utilizado en tu trabajo en este último año?
     - Laravel (PHP)
     - CodeIgniter (PHP)
     - Django (Python)
@@ -209,7 +220,7 @@ Información técnica
     - Webix
     - Svelte
     - Otro:
-22. ¿Qué frameworks de JavaScript utilizas?
+22. ¿Qué frameworks o librerias de JavaScript haz utilizado en tu trabajo durante el último año?
     - jQuery
     - jQuery UI
     - AngularJS
@@ -226,7 +237,7 @@ Información técnica
     - Webix
     - Svelte
     - Otro:
-23. ¿Qué frameworks de CSS conoces?
+23. ¿Qué frameworks o librerias de CSS conoces?
    - Bootstrap
    - Foundation
    - Pure.css
@@ -283,13 +294,14 @@ Información técnica
     - SQLite
     - IBM DB2
     - Otro:
-28. ¿Con qué plataformas Cloud has trabajado?
+28. ¿Con qué plataformas Cloud has trabajado en el último año?
     - Amazon Web Services
     - Una nube privada (implementación a medida)
     - Google Cloud Platform
     - Microsoft Azure
     - IMB Cloud
     - Heroku
+    - Digital Ocean
     - Vercel/Zeit
     - Otro:
 29. ¿A través de qué medios aprendes sobre desarrollo web?
